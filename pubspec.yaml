@@ -1,0 +1,22 @@
+name: material_loading_indicator
+description: "Material Loading Indicator"
+publish_to: "none"
+version: 1.0.0
+
+environment:
+  sdk: ^3.8.0
+  flutter: ">=3.32.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  material_new_shapes: ^1.0.0
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  very_good_analysis: ^7.0.0
+
+flutter:
+  uses-material-design: true
