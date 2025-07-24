@@ -5,7 +5,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:material_loading_indicator/loading_indicator_theme.dart';
-import 'package:material_shapes/material_shapes.dart';
+import 'package:material_new_shapes/material_new_shapes.dart';
 
 const _kContainerSize = 48.0;
 const _kActiveIndicatorSize = 38.0;

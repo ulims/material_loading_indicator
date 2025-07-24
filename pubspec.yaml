@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  material_shapes:
-    git: git@github.com:ksokolovskyi/material_shapes.git
+  material_new_shapes: ^1.0.0
+
 
 dev_dependencies:
   flutter_test:

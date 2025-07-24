@@ -99,14 +99,13 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "0.11.1"
-  material_shapes:
+  material_new_shapes:
     dependency: "direct main"
     description:
-      path: "."
-      ref: HEAD
-      resolved-ref: af98f8e866e1e7d297bd0ecd44d08c18384e7965
-      url: "git@github.com:ksokolovskyi/material_shapes.git"
-    source: git
+      name: material_new_shapes
+      sha256: e4bc375205e187e8fb232573387112dd8c0dd45b03af8aa2b3c79eb4b9e3e0dc
+      url: "https://pub.dev"
+    source: hosted
     version: "1.0.0"
   meta:
     dependency: transitive
